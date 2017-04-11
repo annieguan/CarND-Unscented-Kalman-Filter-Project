@@ -1,3 +1,0 @@
-/Users/annie.guan/Documents/Udacity/SelfDriving/CarND-Unscented-Kalman-Filter-Project/build/CMakeFiles/edit_cache.dir
-/Users/annie.guan/Documents/Udacity/SelfDriving/CarND-Unscented-Kalman-Filter-Project/build/CMakeFiles/rebuild_cache.dir
-/Users/annie.guan/Documents/Udacity/SelfDriving/CarND-Unscented-Kalman-Filter-Project/build/CMakeFiles/UnscentedKF.dir
